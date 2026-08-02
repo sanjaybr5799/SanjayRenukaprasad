@@ -2,7 +2,7 @@
 <!-- <img src="./images/sbr_logo.png" alt="logo" width="300" /> -->
 <img src="./images/sbr_logo.png" alt="logo" width="300" style="background:#ffffff; padding:16px; border-radius:12px;" />
 
-# sanjay bangalore renukaprasad
+# sanjay b r
 
 <!-- <img src="./images/sbr_logo.png" alt="jayce" width="345" /> -->
 
